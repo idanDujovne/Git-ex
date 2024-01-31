@@ -6,3 +6,11 @@ body {
     background-color: black;
     color: white;
 }
+
+.ball {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin: 50px auto;
+}
