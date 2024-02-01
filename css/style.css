@@ -23,5 +23,13 @@ body {
 }
 
 .ball1 {
+    background-color: red;
+}
+
+.ball2 {
     background-color: blue;
+}
+
+.ball3 {
+    background-color: green;
 }
